@@ -1,6 +1,3 @@
-Bien sûr ! Voici le complément que vous avez demandé, avec l'ajout du prétérit imparfait et du passé composé pour les trois groupes de verbes en espagnol. 
-
-```markdown
 # Conjugaisons des Verbes Espagnols : 1er, 2ème et 3ème Groupe (avec Prétérit Imparfait et Passé Composé)
 
 ## Introduction
@@ -173,9 +170,7 @@ Prenons comme exemple le verbe **vivir** (vivre).
 
 ### 3.2. Passé simple (pretérito indefinido)
 
-| Personne      
-
- | Conjugaison | Exemple        |
+| Conjugaison | Exemple        | Personne 
 |----------------|-------------|----------------|
 | Yo             | *viv*í        | (je vécus)     |
 | Tú             | *viv*iste     | (tu vécus)     |
@@ -227,11 +222,3 @@ Prenons comme exemple le verbe **vivir** (vivre).
 | Nosotros       | *viv*iríamos  | (nous vivrions)|
 | Vosotros       | *viv*iríais   | (vous vivriez) |
 | Ellos / Ellas / Ustedes | *viv*irían | (ils/elles vivraient) |
-
----
-
-## Conclusion
-
-Avec l'ajout du **prétérit imparfait** et du **passé composé**, vous avez maintenant une vue complète de la conjugaison des verbes espagnols dans les trois groupes principaux. Ces temps vous permettront de parler au passé de manière plus précise, que ce soit pour décrire une action en cours dans le passé (imparfait) ou pour exprimer une action achevée (passé composé).
-
-N'oubliez pas que certains verbes peuvent avoir des irrégularités dans certains de ces temps (par exemple, **ser**, **ir**, **tener**...).
